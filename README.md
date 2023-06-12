@@ -8,7 +8,7 @@ Welcome everyone to the Let's find coronal holes project. This repository contai
 To run these notebook, simply click "Open in Colab" banner. It will redirect you to Google Colab which allow you to run python without the need to install it on your computer. Once you are in colab, feel free to edit or play arounhe code as much as you like. The original code won't be affected.
 
 The notebooks in this repo are:
-- Day 1: Introduction to solar data and hnalyse them using Sunpy
+- Day 1: Introduction to solar data and analyse them using Sunpy
 - Day 2: Defining Coronal Hole Boundaries, Calculating area and magnetic properties inside coronal hole
 - Day 3: Making movies of coronal hole evolution.
 - Day 3 Extra: Optional Notebook in case you want to plot data in python
