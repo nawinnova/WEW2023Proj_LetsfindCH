@@ -1,5 +1,5 @@
 # MSSL Space Science Week 2023 Project: Let's Find Coronal Holes
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/WEW2022Proj_LetsfindCH)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/WEW2023Proj_LetsfindCH)
 
 ![coronalhole_sdo_blank](https://user-images.githubusercontent.com/40351889/176911257-04f4f9c0-c8d2-4642-8757-b587f6410b10.jpg)
 
