@@ -13,6 +13,6 @@ The notebooks in this repo are:
 - Day 3: Making movies of coronal hole evolution.
 - Day 3 Extra: Optional Notebook in case you want to plot data in python
 
-Repositories for storing data used in this project: https://github.com/nawinnova/LetsFindCH_data
+Repositories for storing data used in this project: https://drive.google.com/drive/folders/1e8JqYKXuOFLn9UKwjo4ZpamcJQmi0wh4?usp=drive_link
 
 Google Drive for Documents and Presentation: https://drive.google.com/drive/folders/1E9LRsrVjXh3ddOONqH8s4HUfU0PvRCKj?usp=sharing
